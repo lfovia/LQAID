@@ -14,4 +14,4 @@ If you are using the code/model/data provided here in a publication, please cite
     pages={2717-2721},}
 
 
-You can run test.py for given test image.
+You can run test.py for a given test image.
